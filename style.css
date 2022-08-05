@@ -277,7 +277,7 @@ hr{
     width:100%;
     padding:70px 0;
 }
-.testimonial row{
+.testimonial-row{
     width:80%;
     margin:auto;
     display: flex;
@@ -355,13 +355,14 @@ hr{
     font-size: 20px;
     color:#009688;
     margin:10px;
+    
 }
 .footer-img{
     max-width: 370px;
     opacity:0.1;
     position: absolute;
     left:50%;
-    top:522%;
+    top:488%;
     transform: translate(-50%,50%);
 }
 
